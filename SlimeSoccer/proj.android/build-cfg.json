@@ -1,0 +1,13 @@
+{
+    "ndk_module_path" :[
+        "${ENGINE_ROOT}",
+        "${ENGINE_ROOT}/cocos",
+        "${ENGINE_ROOT}/external"
+    ],
+    "copy_resources": [
+        {
+            "from": "../res",
+            "to": ""
+        }
+    ]
+}
